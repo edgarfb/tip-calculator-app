@@ -44,33 +44,31 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- SASS
+
+
+- React
 - Flexbox
 - Mobile-first workflow
-- Vanilla Javascript
 
 
 ### What I learned
 
-I decided to solve this challenge without no library or framework to get a more deeper knowledge about javascript and DOM and I happy with my job. But also I figure out I need to keep going learnig becouse there is a lot to lear yet, and that is exciting to me. 
-Now to the next level.
+This is my first project with [React](https://reactjs.org/). I learned how to use components, how it is works, how it comunicated with other components, use it states, handling events, rendering lists, and much more.
 
 ### Continued development
 
-I'm going to learn React or improve my basic knowledge about Angular. Also I'm going read more about design pattern, data structure and algorithms to improve my code.
+I'm going dig deeper on React. Also I'm going read more about design pattern, data structure and algorithms to improve my code.
 
 
 ### Useful resources
+- [React](https://reactjs.org/)
+- [React-the-complete-guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-- [Dark and Light theme switcher using CSS variables and pure JavaScript](https://medium.com/@haxzie/dark-and-light-theme-switcher-using-css-variables-and-pure-javascript-zocada-dd0059d72fa2)
-- [Frontend Master Bootcamp](https://frontendmasters.com/bootcamp/)
 
 #### Teachers
 
-- [Jen Kramer](https://frontendmasters.com/teachers/jen-kramer/)  Harvard University Extension School
-- [Brian Holt](https://frontendmasters.com/teachers/brian-holt/)  Microsoft
+- [Maximilian Schwarzmüller](https://twitter.com/maxedapps)
+Professional Web Developer and Instructor
 
 
 - Conquering responsive layout by [Kevin Powell](https://courses.kevinpowell.co/conquering-responsive-layouts) - 
